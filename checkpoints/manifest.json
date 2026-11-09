@@ -1,0 +1,70 @@
+[
+  {
+    "dataset": "video",
+    "file": "video/best.pth",
+    "expected_sha256": "ab42342b2129a1bdcc689c9d2bbacfc1c7ebfa303553ba5e29e350c03209261c",
+    "expected_bytes": 14723287,
+    "assets": [
+      "video-ordered-best.pth"
+    ]
+  },
+  {
+    "dataset": "ml-1m",
+    "file": "ml-1m/best.pth",
+    "expected_sha256": "d6efadadb2a41fea1fe5188d8becd7050f850ad1c9ff8a3265d82649de8d5572",
+    "expected_bytes": 7304919,
+    "assets": [
+      "ml-1m-ordered-best.pth"
+    ]
+  },
+  {
+    "dataset": "xlong",
+    "file": "xlong/best.pth",
+    "expected_sha256": "dc09d0de9ee780f3830ef23a631d55123da5d37031e00dffa3c45a2e919c5775",
+    "expected_bytes": 2200791943,
+    "assets": [
+      "xlong-ordered-best.pth.part00",
+      "xlong-ordered-best.pth.part01",
+      "xlong-ordered-best.pth.part02",
+      "xlong-ordered-best.pth.part03",
+      "xlong-ordered-best.pth.part04",
+      "xlong-ordered-best.pth.part05",
+      "xlong-ordered-best.pth.part06",
+      "xlong-ordered-best.pth.part07",
+      "xlong-ordered-best.pth.part08",
+      "xlong-ordered-best.pth.part09",
+      "xlong-ordered-best.pth.part10",
+      "xlong-ordered-best.pth.part11",
+      "xlong-ordered-best.pth.part12",
+      "xlong-ordered-best.pth.part13",
+      "xlong-ordered-best.pth.part14",
+      "xlong-ordered-best.pth.part15",
+      "xlong-ordered-best.pth.part16",
+      "xlong-ordered-best.pth.part17",
+      "xlong-ordered-best.pth.part18",
+      "xlong-ordered-best.pth.part19",
+      "xlong-ordered-best.pth.part20",
+      "xlong-ordered-best.pth.part21",
+      "xlong-ordered-best.pth.part22",
+      "xlong-ordered-best.pth.part23",
+      "xlong-ordered-best.pth.part24",
+      "xlong-ordered-best.pth.part25",
+      "xlong-ordered-best.pth.part26",
+      "xlong-ordered-best.pth.part27",
+      "xlong-ordered-best.pth.part28",
+      "xlong-ordered-best.pth.part29",
+      "xlong-ordered-best.pth.part30",
+      "xlong-ordered-best.pth.part31",
+      "xlong-ordered-best.pth.part32"
+    ]
+  },
+  {
+    "dataset": "steam",
+    "file": "steam/best.pth",
+    "expected_sha256": "e419e3dbd7cf9e3c350445f122ecee99f2cf4764cad193948381cf8785b15035",
+    "expected_bytes": 25114761,
+    "assets": [
+      "steam-ordered-best.pth"
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+dataset,method,K,beta,NDCG@10,NDCG@20,Recall@10,Recall@20,source,configuration,checkpoint,checkpoint_sha256
+ml-1m,Ordered,64,5,0.20194112500607572,0.2293418050799149,0.3395695366212074,0.4481788078680733,checkpoints/ml-1m/reported_test.json,configs/ml-1m.json,checkpoints/ml-1m/best.pth,d6efadadb2a41fea1fe5188d8becd7050f850ad1c9ff8a3265d82649de8d5572
+xlong,Ordered,32,5,0.45689550235486265,0.4693905761660619,0.5641617999454736,0.6135082004849981,checkpoints/xlong/reported_test.json,configs/xlong.json,checkpoints/xlong/best.pth,dc09d0de9ee780f3830ef23a631d55123da5d37031e00dffa3c45a2e919c5775
+steam,Ordered,16,5,0.07471851873618933,0.09141872327347601,0.13750844785514926,0.20392580912762542,checkpoints/steam/reported_test.json,configs/steam.json,checkpoints/steam/best.pth,e419e3dbd7cf9e3c350445f122ecee99f2cf4764cad193948381cf8785b15035
+video,Ordered,16,5,0.06699385255173006,0.08092306853584832,0.12148474167995879,0.17679039527847482,checkpoints/video/reported_test.json,configs/video.json,checkpoints/video/best.pth,ab42342b2129a1bdcc689c9d2bbacfc1c7ebfa303553ba5e29e350c03209261c

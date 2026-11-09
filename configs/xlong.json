@@ -1,0 +1,20 @@
+{
+  "dataset": "xlong",
+  "beta": 5.0,
+  "parameters": {
+    "mode": "exposure",
+    "rank": 32,
+    "hidden_size": 128,
+    "dropout": 0.4,
+    "learning_rate": 0.001,
+    "label_smoothing": 0.2,
+    "weight_decay": 0.0001,
+    "train_batch_size": 32,
+    "inference_batch_size": 64,
+    "num_epochs": 500,
+    "patience": 20,
+    "seed": 42,
+    "microbatch_size": 8
+  },
+  "source": "checkpoints/xlong/reported_test.json"
+}
